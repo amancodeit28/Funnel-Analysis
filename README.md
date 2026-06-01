@@ -1,5 +1,5 @@
 # Funnel-Analysis
-## Netflix Content Library: What the Data Tells Us
+## Netflix Content Library: 
 
 Netflix's catalog is a sprawling mix of movies and television, drawn from dozens of countries and spanning nearly a century of release years. This report explores a dataset of titles available on the service, looking at the balance between film and television, where content comes from, how long movies tend to run, how the library has grown over time, and how content is rated. Together, these views paint a clear picture of what fills the Netflix shelf.
 
